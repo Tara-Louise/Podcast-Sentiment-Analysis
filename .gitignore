@@ -18,3 +18,4 @@ podcast_env/
 
 # Keep demo CSV for the app
 !podcast_sentiment_demo.csv
+app copy.txt
