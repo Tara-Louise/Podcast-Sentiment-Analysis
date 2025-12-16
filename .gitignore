@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.env
+.venv/
+podcast_env/
+
+# macOS
+.DS_Store
+
+# Secrets
+.secrets.toml
+
+# Ignore real client data
+*.csv
+
+# Keep demo CSV for the app
+!podcast_sentiment_demo.csv
